@@ -31,20 +31,23 @@ main header .border .img{
 
 
 main header h1{
-  font: 600 1.5rem var(--font-main);
+  font: 600 1.6rem var(--font-main);
   color: var(--color-text-primary);
   margin-top: 0.8rem;
   text-align: center;
+  text-transform: capitalize;
 }
 
 main header p{
-  font: 300 1.3rem var(--font-main);
+  font: 300 1.1rem var(--font-main);
   color: #f1f1f1;
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
 }
 
 main article{
-  width: 25%;
+  width: 30%;
   padding-bottom: 2rem;
 }
 

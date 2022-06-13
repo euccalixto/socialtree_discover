@@ -9,7 +9,7 @@ html{
   --color-secondary:#302F3D;
   --color-text-primary:#fff ;
   --font-main: 'Poppins', sans-serif;
-  --gradient-body:linear-gradient(45deg,#302f3d,#837E9F99);
+  --gradient-body:linear-gradient(45deg,#2f313d,#837E9F99);
 }
 
 @media(max-width:700px){
